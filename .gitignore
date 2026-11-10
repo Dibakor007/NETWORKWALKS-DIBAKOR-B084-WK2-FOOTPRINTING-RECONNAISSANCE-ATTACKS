@@ -1,0 +1,11 @@
+# Ignore execution helper
+powershell.bat
+organize.ps1
+
+# Ignore raw/unorganized screenshots in root
+Screenshot_*.png
+
+# System files
+Thumbs.db
+.DS_Store
+
